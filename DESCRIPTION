@@ -2,8 +2,8 @@ Package: PDXpower
 Type: Package
 Title: Time to Event Outcome in Experimental Designs of Pre-Clinical
         Studies
-Version: 1.0.0
-Date: 2024-03-08
+Version: 1.0.1
+Date: 2024-04-01
 Authors@R: c(
     person("Shanpeng", "Li", email = "lishanpeng0913@ucla.edu", 
         role = c("aut", "cre")),
@@ -27,8 +27,8 @@ Suggests: testthat (>= 3.0.0), spelling
 Language: en-US
 LazyData: true
 NeedsCompilation: no
-Packaged: 2024-03-09 14:41:39 UTC; shanpengli
+Packaged: 2024-04-02 00:16:58 UTC; shanpengli
 Author: Shanpeng Li [aut, cre],
   Gang Li [ctb]
 Repository: CRAN
-Date/Publication: 2024-03-11 15:20:02 UTC
+Date/Publication: 2024-04-02 02:10:02 UTC
